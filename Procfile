@@ -1,1 +1,1 @@
-web: gunicorn emailvalidator.wsgi
+web: gunicorn untitled1.wsgi
